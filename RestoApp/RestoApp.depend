@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\castillo\desktop\matias\utn\restoapp\main.cpp
+	<iostream>
+
+1621201066 source:c:\users\castillo\desktop\matias\utn\restoapp\src\alimentos.cpp
+	"Alimentos.h"
+
+1621201066 c:\users\castillo\desktop\matias\utn\restoapp\include\alimentos.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Fecha.h"
+
+1621200539 source:c:\users\castillo\desktop\matias\utn\restoapp\src\fecha.cpp
+	"Fecha.h"
+
+1621200646 c:\users\castillo\desktop\matias\utn\restoapp\include\fecha.h
+	<iostream>
+	<cstring>
+	<cstdio>
+
